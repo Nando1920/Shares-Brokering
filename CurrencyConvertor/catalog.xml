@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/ftama/OneDrive/Documents/Uni/SCCC/SharesBrockeringN0815571/CurrencyConvertor/src/java/API/Currency.xsd" uri="src/conf/xml-resources/jaxb/CurrencyBind/Currency.xsd"/>
+</catalog>
